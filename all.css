@@ -1,0 +1,27 @@
+.aNum
+{
+	display: inline-block;
+	width: 25px;
+	height: 25px;
+	border: 1px solid #d2d2d2;
+	line-height: 25px;
+	text-decoration: none;
+	text-align: center;
+}
+.aFirst, .aLast
+{
+	width: 40px;
+}
+.aPrev, .aNext
+{
+	width: 50px;
+}
+.current
+{
+	color: #d2d2d2;
+}
+img
+{
+	width: 100px;
+	height: 100px;
+}
